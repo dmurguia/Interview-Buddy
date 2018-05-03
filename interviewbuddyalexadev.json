@@ -1,0 +1,98 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "interview buddy",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "when on campus",
+                        "tell me when I'll interview next",
+                        "tell me my next interview date",
+                        "when am I scheduled to interview",
+                        "when is my interview",
+                        "when is my next on campus interview"
+                    ]
+                },
+                {
+                    "name": "GetNewFactInterviewtwo",
+                    "slots": [],
+                    "samples": [
+                        "help me study for interview",
+                        "help me mock interview",
+                        "help me prepare for my interview",
+                        "help me with my interview",
+                        "help me prepare for my interview"
+                    ]
+                },
+                 {
+                    "name": "GetNewFactInterviewthree",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts about Amazon",
+                        "tell me some information about Amazon and PM",
+                        "tell me some facts about Amazon and what a PM does"
+                    ]
+                },
+                 {
+                    "name": "GetNewFactInterviewfour",
+                    "slots": [],
+                    "samples": [
+                        "give me a behavioral interview question",
+                        "could you give me a behavorial question",
+                        "what is a behavioral question to prepare"
+                       
+                    ]
+                },
+                 {
+                    "name": "GetNewFactInterviewfive",
+                    "slots": [],
+                    "samples": [
+                        "what is a technical question they might ask",
+                        "what are some technical PM questions",
+                        "What is a technical question for Amazon"
+                    ]
+                },
+                 {
+                    "name": "GetNewFactInterviewsix",
+                    "slots": [],
+                    "samples": [
+                        "do you have feedback from my response",
+                        "do you know how well I responded",
+                        "do you have feedback",
+                        "what is your feedback"
+                    ]
+                },
+                 {
+                    "name": "GetNewFactInterviewseven",
+                    "slots": [],
+                    "samples": [
+                        "thank you for the interview help today",
+                        "thank you for helping prepare for the interview today",
+                        "thank you for helping today"
+                        "things for the interview help today"
+                    
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
